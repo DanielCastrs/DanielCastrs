@@ -1,5 +1,4 @@
 ## Olá eu sou Daniel Castro
-**`Desenvolvedor FullStack`**
 
 Um profissional com sólida experiência em suporte técnico e monitoramento de aplicações e infraestrutura de TI. Atualmente, estou em transição de carreira para a área de Desenvolvimento Full Stack JavaScript, unindo minha base técnica robusta a uma mentalidade voltada para inovação e melhoria contínua.
 
@@ -8,6 +7,7 @@ Ao longo da minha trajetória, desenvolvi uma forte capacidade de análise de pr
 Tenho como diferencial a criatividade na abordagem de desafios técnicos, buscando sempre aliar conhecimento técnico com uma visão estratégica para entregar valor real aos projetos.
 
 ---
+**`Desenvolvedor FullStack`**
 
 ### 📊 Estatísticas + Tecnologias
 
